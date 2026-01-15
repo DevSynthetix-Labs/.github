@@ -4,7 +4,7 @@
   <h3>Architecting Digital Intelligence | Advancing Open Source</h3>
   
   <p>
-    <a href="https://github.com/DevSynthetixLabs">
+    <a href="https://github.com/DevSynthetix-Labs">
       <img src="https://img.shields.io/badge/Established-2025-blue?style=flat-square&logo=github" alt="Established" />
     </a>
     <a href="mailto:careers.devsynthetix@gmail.com">
