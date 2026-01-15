@@ -1,31 +1,46 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=DevSynthetix%20Labs&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%" />
 
-  <h3>Architecting Digital Intelligence | Advancing Open Source</h3>
-  
+  <h3>
+    DevSynthetix Labs is an early-stage open-source software lab<br>
+    focused on building practical systems, web platforms,<br>
+    and experimental tools.
+    <br><br>
+    We build in public and improve through iteration.
+  </h3>
+
   <p>
-    <a href="https://github.com/DevSynthetix-Labs">
-      <img src="https://img.shields.io/badge/Established-2025-blue?style=flat-square&logo=github" alt="Established" />
+    <img src="https://img.shields.io/badge/Founded-2026-blue?style=flat-square&logo=github" />
+    <a href="mailto:contact.devsynthetix@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-Team-success?style=flat-square&logo=gmail" />
     </a>
-    <a href="mailto:careers.devsynthetix@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Team-success?style=flat-square&logo=gmail" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-Operating-critical?style=flat-square&logo=instatus" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Active-informational?style=flat-square" />
   </p>
 </div>
 
 ---
 
-### 🚀 About Us
-**DevSynthetix Labs** is a specialized software research and development collective. We focus on building scalable infrastructure, experimental algorithms, and next-generation web technologies.
+## 🚀 About
 
-- 🔭 **Core Focus:** Advanced Web Systems, AI Integration, and Cloud Architecture.
-- 🤝 **Collaboration:** We partner with open-source contributors to push the boundaries of code.
-- 🔐 **Privacy:** Committed to secure and transparent development practices.
+**DevSynthetix Labs** is an independent, early-stage software research and development group.
+The focus is on building real, usable systems while experimenting with modern tools,
+architectures, and workflows.
+
+The lab values working code, transparency, and continuous improvement over hype.
 
 ---
 
-### 🛠️ Technologies We Use
+## 📌 Current Work
+
+- Backend service prototypes (Node.js)
+- Web platform and UI experiments (React / Next.js)
+- Experimental scripts and early research trials
+
+All projects are **work in progress** and evolve publicly through iteration.
+
+---
+
+## 🛠️ Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -33,11 +48,25 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
+
+> Technologies are listed based on **active use**, not future claims.
+
+---
+
+## 🤝 Collaboration
+
+DevSynthetix Labs is open to collaboration and experimentation.
+If you are interested in contributing or exploring ideas together,
+feel free to open an issue or reach out.
+
+📩 **contact.devsynthetix@gmail.com**
 
 ---
 
 <div align="center">
-  <sub>© 2026 DevSynthetix Labs. All rights reserved. <br> Maintaining privacy and excellence in code.</sub>
+  <sub>
+    © 2026 DevSynthetix Labs<br>
+    Building systems. Learning in public.
+  </sub>
 </div>
