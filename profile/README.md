@@ -86,7 +86,7 @@ We build real-world systems focused on performance and scalability.
 
 We are open to collaborations, product builds, and experimental ideas.
 
-📩 **[contact.devsynthetix@gmail.com](mailto:contact.devsynthetix@gmail.com)**
+📩 **[contact@devsynthetix.in](mailto:contact@devsynthetix.in)**
 
 ---
 
