@@ -95,7 +95,7 @@ We are open to collaborations, product builds, and experimental ideas.
 ### ⚡ DevSynthetix Lab
 
 <sub>
-© 2026 DevSynthetix Lab • Engineering modern digital systems
+© 2026 DevSynthetix • Engineering modern digital systems
 </sub>
 
 </div>
